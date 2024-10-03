@@ -20,3 +20,9 @@ Contents
 
    usage
    api
+
+Docs
+====
+
+.. doxygenstruct:: cat
+   :members:
